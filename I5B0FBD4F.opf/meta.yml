@@ -1,0 +1,43 @@
+id: I5B0FBD4F
+ocr_import_info:
+  source: bdrc
+  software: google_vision
+  batch: batch001
+  expected_default_language: None
+  bdrc_scan_id: W1ER90
+  timestamp: 2023-01-02 09:52:50
+  imagesfolder: images
+  op_import_options: {}
+  op_import_version: 0.9.16
+default_language: None
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-01-02 10:46:33.494847+00:00
+last_modified: 2023-01-02 10:46:33.494871+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1ER90
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: None
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  languages: []
+statistics:
+  ocr_word_mean_confidence_index: 0.8981806747397543
+  ocr_word_median_confidence_index: 0.9344554549999999
+bases:
+  I1ER743:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1ER743
+      total_pages: 604
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1ER743.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9344554549999999
+      ocr_word_mean_confidence_index: 0.8981806747397543
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
